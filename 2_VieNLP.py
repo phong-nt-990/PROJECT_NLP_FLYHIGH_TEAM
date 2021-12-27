@@ -22,6 +22,7 @@ text = word_tokenize(text)
 
 
 stop_words = set(stopwords.words('vietnamese'))
+#If there is any error, please check this link for help: https://spot-carp-c44.notion.site/Error-No-such-file-419abbee0f914e3cb9e92ac2852856b0
   
 filtered_sentence = [w for w in text if not w.lower() in stop_words]
  
