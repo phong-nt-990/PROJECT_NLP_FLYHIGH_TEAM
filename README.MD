@@ -1,4 +1,4 @@
-# Tổng hợp tìm hiểu (Flyhigh Team)
+# ĐỒ ÁN MÔN HỌC - FLYHIGH TEAM - 21TNT1 - HCMUS
 
 # 1. OCR
 
