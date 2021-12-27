@@ -1,19 +1,25 @@
-# ĐỒ ÁN MÔN HỌC - XỬ LÍ NGÔN NGỮ TỰ NHIÊN - HCMUS
+# ĐỒ ÁN MÔN HỌC - XỬ LÍ NGÔN NGỮ TỰ NHIÊN
 
 # THÔNG TIN ĐỒ ÁN:
 
 - Tên đồ án: Xử lí ngôn ngữ tự nhiên (Natural Language Processing) - NLP
 - Lớp: Trí tuệ nhân tạo - 21TNT1
-- ĐH KHTN - ĐHQG TPHCM
 - Môn: Giới thiệu trí tuệ nhân tạo - CSC00006
 - Họ và tên người tham gia đồ án:
-    - Trần Ngọc Bảo (Nhóm trưởng)
+    - Nguyễn Ngọc Bảo (Nhóm trưởng)
     - Nguyễn Anh Khôi
     - Nguyễn Chí Cường
     - Nguyễn Văn Trí
     - Nguyễn Thế Phong
 
-# 1. OCR
+# NỘI DUNG ĐỒ ÁN - MỤC TIÊU CỦA PHẦN MỀM
+
+- Là ứng dụng tìm kiếm cơ bản
+- Cách thức hoạt động: OCR → NLP → Search
+
+# CÁCH THỨC TRIỂN KHAI - MÃ NGUỒN PHẦN MỀM
+
+## 1. OCR
 
 1. Thông tin
     - App: VietOCR.
@@ -26,24 +32,24 @@
 3. Sử dụng
     - Màn hình khởi động
         
-        ![Untitled](README/Untitled.png)
+        ![Untitled](Content/Untitled.png)
         
     - Nếu OCR 1 file, kéo thả file vào vùng làm việc của ứng dụng và chọn Image→OCR all page
         
-        ![Result](README/Untitled%201.png)
+        ![Result](Content/Untitled%201.png)
         
         Result
         
     - OCR nhiều file, chọn Image→Bulk OCR, sau đó điền folder input và output rồi enter
         
-        ![Untitled](README/Untitled%202.png)
+        ![Untitled](Content/Untitled%202.png)
         
-        ![Kết quả sau khi thử nghiệm OCR nhiều file](README/Untitled%203.png)
+        ![Kết quả sau khi thử nghiệm OCR nhiều file](Content/Untitled%203.png)
         
         Kết quả sau khi thử nghiệm OCR nhiều file
         
     
-    # 2. Xử lí ngôn ngữ tự nhiên (NLP)
+    ## 2. Xử lí ngôn ngữ tự nhiên (NLP)
     
     ## I. Tiếng Anh
     
@@ -171,7 +177,7 @@
         ```
         
 
-# 3. Tìm kiếm trong 2000 tệp văn bản (Đã OCR sang file .txt)
+## 3. Tìm kiếm trong 2000 tệp văn bản (Đã OCR sang file .txt)
 
 ## I. Tiếng Anh & Tiếng Việt
 
@@ -280,7 +286,7 @@
     ```
     
 
-# 4. Tìm kiếm tài liệu có nội dung tương tự trên Internet
+## 4. Tìm kiếm tài liệu có nội dung tương tự trên Internet
 
 ## Tiếng Anh và Tiếng Việt
 
@@ -292,7 +298,6 @@
     ```python
     import io
     import sys
-    
     from magic_google import MagicGoogle
     import pprint
     import io
@@ -318,15 +323,17 @@
     
     for url in mg.search_url(query=data):
         pprint.pprint(url)
-        #####################################################################
+        ####################################################################
     ```
     
-    # 5. TRÍCH DẪN - THAM KHẢO
+    # TRÍCH DẪN - THAM KHẢO
     
     - [VietOCR.NET](http://vietocr.sourceforge.net/) is a .NET WPF GUI frontend for [Tesseract OCR engine](https://github.com/tesseract-ocr).
         - Link: [https://sourceforge.net/projects/vietocr/](https://sourceforge.net/projects/vietocr/)
     - Và các thư viện Python khác
     
-     ————————————————————————————————
+    # LỜI CẢM ƠN
     
-    ### Xin cảm ơn tới tất cả mọi người tham gia cùng dự án
+    Chúng em xin cảm ơn thầy Võ Hoàng Quân - giảng viên môn Giới thiệu Trí tuệ nhân tạo trường ĐH KHTN và tất cả mọi người đã tham gia xây dựng và phát triển đồ án. Trong quá trình làm, tụi em không thể tránh khỏi một vài thiếu sót, rất mong nhận được góp ý, đánh giá của các thầy để hoàn thiện hơn.
+    
+    Xin chân thành cảm ơn!
