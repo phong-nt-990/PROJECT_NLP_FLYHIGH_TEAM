@@ -2,7 +2,7 @@
 
 # THÔNG TIN ĐỒ ÁN:
 
-- Tên: Xử lí ngôn ngữ tự nhiên (Neuro-Linguistic Programming) - NLP
+- Tên: Xử lí ngôn ngữ tự nhiên (Natural Language Processing) - NLP
 - Lớp: Trí tuệ nhân tạo - 21TNT1
 - ĐH KHTN - ĐHQG TPHCM
 - Môn: Giới thiệu trí tuệ nhân tạo - CSC00006
