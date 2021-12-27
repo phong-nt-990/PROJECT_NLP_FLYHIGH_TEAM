@@ -326,7 +326,6 @@
         - Link: [https://sourceforge.net/projects/vietocr/](https://sourceforge.net/projects/vietocr/)
     - Và các thư viện Python khác
     
-     
+     ————————————————————————————————
     
-    > Xin cảm ơn tới tất cả mọi người tham gia cùng dự án
-    >
+    ### Xin cảm ơn tới tất cả mọi người tham gia cùng dự án
