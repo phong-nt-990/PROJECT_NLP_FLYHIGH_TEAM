@@ -1,6 +1,6 @@
 # ĐỒ ÁN MÔN HỌC - XỬ LÍ NGÔN NGỮ TỰ NHIÊN
 
-# THÔNG TIN ĐỒ ÁN:
+# ***THÔNG TIN ĐỒ ÁN:***
 
 - Tên đồ án: Xử lí ngôn ngữ tự nhiên (Natural Language Processing) - NLP
 - Lớp: Trí tuệ nhân tạo - 21TNT1
@@ -12,12 +12,12 @@
     - Nguyễn Văn Trí
     - Nguyễn Thế Phong
 
-# NỘI DUNG ĐỒ ÁN - MỤC TIÊU CỦA PHẦN MỀM
+# *NỘI DUNG ĐỒ ÁN - MỤC TIÊU CỦA PHẦN MỀM*
 
 - Là ứng dụng tìm kiếm cơ bản
 - Cách thức hoạt động: OCR → NLP → Search
 
-# CÁCH THỨC TRIỂN KHAI - MÃ NGUỒN PHẦN MỀM
+# *CÁCH THỨC TRIỂN KHAI - MÃ NGUỒN PHẦN MỀM*
 
 ## 1. OCR
 
@@ -32,19 +32,19 @@
 3. Sử dụng
     - Màn hình khởi động
         
-        ![Untitled](Content/Untitled.png)
+        ![Untitled](%C4%90O%CC%82%CC%80%20A%CC%81N%20MO%CC%82N%20HO%CC%A3C%20-%20XU%CC%9B%CC%89%20LI%CC%81%20NGO%CC%82N%20NGU%CC%9B%CC%83%20TU%CC%9B%CC%A3%20NHI%20873ac75f45ee4266a986df546a3358b0/Untitled.png)
         
     - Nếu OCR 1 file, kéo thả file vào vùng làm việc của ứng dụng và chọn Image→OCR all page
         
-        ![Result](Content/Untitled%201.png)
+        ![Result](%C4%90O%CC%82%CC%80%20A%CC%81N%20MO%CC%82N%20HO%CC%A3C%20-%20XU%CC%9B%CC%89%20LI%CC%81%20NGO%CC%82N%20NGU%CC%9B%CC%83%20TU%CC%9B%CC%A3%20NHI%20873ac75f45ee4266a986df546a3358b0/Untitled%201.png)
         
         Result
         
     - OCR nhiều file, chọn Image→Bulk OCR, sau đó điền folder input và output rồi enter
         
-        ![Untitled](Content/Untitled%202.png)
+        ![Untitled](%C4%90O%CC%82%CC%80%20A%CC%81N%20MO%CC%82N%20HO%CC%A3C%20-%20XU%CC%9B%CC%89%20LI%CC%81%20NGO%CC%82N%20NGU%CC%9B%CC%83%20TU%CC%9B%CC%A3%20NHI%20873ac75f45ee4266a986df546a3358b0/Untitled%202.png)
         
-        ![Kết quả sau khi thử nghiệm OCR nhiều file](Content/Untitled%203.png)
+        ![Kết quả sau khi thử nghiệm OCR nhiều file](%C4%90O%CC%82%CC%80%20A%CC%81N%20MO%CC%82N%20HO%CC%A3C%20-%20XU%CC%9B%CC%89%20LI%CC%81%20NGO%CC%82N%20NGU%CC%9B%CC%83%20TU%CC%9B%CC%A3%20NHI%20873ac75f45ee4266a986df546a3358b0/Untitled%203.png)
         
         Kết quả sau khi thử nghiệm OCR nhiều file
         
@@ -326,13 +326,13 @@
         ####################################################################
     ```
     
-    # TRÍCH DẪN - THAM KHẢO
+    # *TRÍCH DẪN - THAM KHẢO*
     
     - [VietOCR.NET](http://vietocr.sourceforge.net/) is a .NET WPF GUI frontend for [Tesseract OCR engine](https://github.com/tesseract-ocr).
         - Link: [https://sourceforge.net/projects/vietocr/](https://sourceforge.net/projects/vietocr/)
     - Và các thư viện Python khác
     
-    # LỜI CẢM ƠN
+    # *LỜI CẢM ƠN*
     
     Chúng em xin cảm ơn thầy Võ Hoàng Quân - giảng viên môn Giới thiệu Trí tuệ nhân tạo trường ĐH KHTN và tất cả mọi người đã tham gia xây dựng và phát triển đồ án. Trong quá trình làm, tụi em không thể tránh khỏi một vài thiếu sót, rất mong nhận được góp ý, đánh giá của các thầy để hoàn thiện hơn.
     
