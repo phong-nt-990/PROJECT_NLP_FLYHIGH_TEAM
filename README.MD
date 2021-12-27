@@ -1,4 +1,6 @@
-# ĐỒ ÁN MÔN HỌC - FLYHIGH TEAM - 21TNT1 - HCMUS
+# ĐỒ ÁN MÔN HỌC - XỬ LÍ NGÔN NGỮ TỰ NHIÊN
+
+## By FlyHigh team - Lớp 21TNT1 - ĐH KHTN ĐHQG THHCM
 
 # 1. OCR
 
