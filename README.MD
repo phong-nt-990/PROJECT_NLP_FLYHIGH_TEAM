@@ -1,9 +1,10 @@
-# ĐỒ ÁN MÔN HỌC - XỬ LÍ NGÔN NGỮ TỰ NHIÊN
+# ĐỒ ÁN MÔN HỌC - XỬ LÍ NGÔN NGỮ TỰ NHIÊN - HCMUS
 
 # THÔNG TIN ĐỒ ÁN:
 
 - Tên: Xử lí ngôn ngữ tự nhiên (Neuro-Linguistic Programming) - NLP
 - Lớp: Trí tuệ nhân tạo - 21TNT1
+- ĐH KHTN - ĐHQG TPHCM
 - Môn: Giới thiệu trí tuệ nhân tạo - CSC00006
 - Họ và tên người tham gia đồ án:
     - Nguyễn Ngọc Bảo (Nhóm trưởng)
