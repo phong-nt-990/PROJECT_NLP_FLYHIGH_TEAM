@@ -4,6 +4,7 @@
 
 - Tên đồ án: Xử lí ngôn ngữ tự nhiên (Natural Language Processing) - NLP
 - Lớp: Trí tuệ nhân tạo - 21TNT1
+- Trường: Đại học Khoa học tự nhiên - ĐHQG TPHCM (HCMUS)
 - Môn: Giới thiệu trí tuệ nhân tạo - CSC00006
 - Họ và tên người tham gia đồ án:
     - Nguyễn Ngọc Bảo (Nhóm trưởng)
