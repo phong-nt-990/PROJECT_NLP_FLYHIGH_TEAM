@@ -328,4 +328,5 @@
     
      
     
-    $$\text{Xin cảm ơn tất cả mọi người đã tham gia cùng dự án}$$
+    > Xin cảm ơn tới tất cả mọi người tham gia cùng dự án
+    >
