@@ -176,7 +176,7 @@
                 file.write(r + " ")
                 file.close()
         ```
-        
+        Nếu có lỗi xảy ra, vui lòng vào đường link này để tham khảo giải pháp: https://spot-carp-c44.notion.site/Error-No-such-file-419abbee0f914e3cb9e92ac2852856b0
 
 ## 3. Tìm kiếm trong 2000 tệp văn bản (Đã OCR sang file .txt)
 
