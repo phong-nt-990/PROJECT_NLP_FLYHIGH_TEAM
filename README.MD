@@ -7,7 +7,7 @@
 - Trường: Đại học Khoa học tự nhiên - ĐHQG TPHCM (HCMUS)
 - Môn: Giới thiệu trí tuệ nhân tạo - CSC00006
 - Họ và tên người tham gia đồ án:
-    - Nguyễn Ngọc Bảo (Nhóm trưởng)
+    - Trần Ngọc Bảo (Nhóm trưởng)
     - Nguyễn Anh Khôi
     - Nguyễn Chí Cường
     - Nguyễn Văn Trí
