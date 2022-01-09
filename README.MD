@@ -335,6 +335,6 @@
     
     # *LỜI CẢM ƠN*
     
-    Chúng em xin cảm ơn thầy Võ Hoàng Quân - giảng viên môn Giới thiệu Trí tuệ nhân tạo trường ĐH KHTN và tất cả mọi người đã tham gia xây dựng và phát triển đồ án. Trong quá trình làm, tụi em không thể tránh khỏi một vài thiếu sót, rất mong nhận được góp ý, đánh giá của các thầy để hoàn thiện hơn.
+    Chúng em xin cảm ơn thầy Võ Hoàng Quân - giảng viên môn Giới thiệu Trí tuệ nhân tạo trường ĐH KHTN và tất cả mọi người đã tham gia xây dựng và phát triển đồ án. Trong quá trình làm, chúng em không thể tránh khỏi một vài thiếu sót, rất mong nhận được góp ý, đánh giá của các thầy để hoàn thiện hơn.
     
     Xin chân thành cảm ơn!
